@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(245deg, #0e0d13, #9fa3a9);
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  padding: 5px;
+  color: ghostwhite;
+}
+
+img {
+  width: 90%;
+  margin: 20px auto;
+  border-radius: 20px;
+  display: block;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+.contact-btn a {
+  text-decoration: none;
+  color: white;
+  background-color: #007bff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+}
